@@ -20,6 +20,6 @@ Languages: HTML, CSS, JavaScript
 
 API Used: OpenWeather API
 
-🌍 Live website(https://eifakhan.github.io/weather-app/)
+🌍 Live website(https://eifakhan.github.io/weather-dashboard/)
 
  
